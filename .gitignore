@@ -1,0 +1,10 @@
+
+5. **Commit and Push Changes:**
+   - Add your script and README file to the repository, commit, and push the changes:
+     ```bash
+     git add .
+     git commit -m "Initial commit with script and README"
+     git push origin main
+     ```
+
+By following these steps, you'll have a well-documented GitHub repository that others can easily understand and use. If you need any further help with GitHub or any other aspect, feel free to ask!
